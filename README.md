@@ -1,3 +1,3 @@
 # data-sturctures
-coursera UCSD data structures
+Coursera UCSD data structures
  
