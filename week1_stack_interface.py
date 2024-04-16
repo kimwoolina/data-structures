@@ -29,7 +29,6 @@ class StackWithMax():
         
         if self._max != pop.last_max :
             self._max = pop.last_max
-        
 
     def Max(self):
         assert(len(self._stack))
